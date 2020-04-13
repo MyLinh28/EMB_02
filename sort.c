@@ -50,6 +50,8 @@ void out(int *a, int n)
 int main()
 {
 	   int a[10] = {1, 34, 47, 5, 23, 12, 8, 4, 32, 9};
+	   /*number 1*/
+	   printf("Number 1 entered: ");
 	   out(a, 10);
 	   up(a, 10);
 	   out(a, 10);
